@@ -2,6 +2,8 @@
 operating system based on the Aden ecosystem completely free written in HTML, CSS, and JS
 
 ***Version Management***
+
+----------------------------------------------------
 X.x
 example: 0.3
 0 = Version
